@@ -11,10 +11,10 @@ return array(
       'acl' => array(
         'Compras' => array(
             'COMPRAS' => array(
-                'Almoxarifado\Controller\Index:index',              
+                'Compras\Controller\Index:index',              
             ),
             'TI' => array(
-                'Almoxarifado\Controller\Index:index',              
+                'Compras\Controller\Index:index',              
             ),
         )
     ),
